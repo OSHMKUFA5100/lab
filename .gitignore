@@ -28,3 +28,7 @@ build/
 # ---- 操作系统 ----
 .DS_Store
 Thumbs.db
+
+# ---- Note 目录 ----
+note/assets/
+note/项目/
